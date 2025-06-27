@@ -1,0 +1,32 @@
+# Node.js (if using it)
+node_modules/
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build/output directories
+dist/
+build/
+out/
+
+# Logs
+*.log
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Python (if using)
+__pycache__/
+*.pyc
+
+# Compiled files
+*.class
+*.o
+*.exe
+
+# Dependency lock files (optional)
+package-lock.json
+yarn.lock
